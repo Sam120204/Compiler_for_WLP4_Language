@@ -25,7 +25,7 @@ To compile and execute the WLP4 compiler, follow these steps:
     g++ -o wlp4type wlp4type.cc
     g++ -o wlp4gen wlp4gen.cc
     ```
-
+ 
 2. **Run the scanner:**
     ```sh
     ./wlp4scan <input_file> > tokens.txt
